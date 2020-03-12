@@ -26,7 +26,7 @@ def get_majority_element(elements, hi, lo):
 
     # once the recursive calls are done
     # check if the return values are the same
-    # if yes, this is the majority of the array in consideration
+    # if yes, the return value is the majority element of the array in consideration
     # example: array [2, 2, 3] will be split into
     # left [2, 2] and right [3]
     # left will be then split into left-left [2] and left-right [2]
