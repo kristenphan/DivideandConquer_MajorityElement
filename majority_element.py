@@ -62,5 +62,6 @@ if __name__ == '__main__':
         print(1)
     else:
         print(0)
+    print(majority_element_naive(a))
 
 
