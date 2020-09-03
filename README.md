@@ -13,6 +13,7 @@ This repo stores the code written by myself, Kristen Phan, as part of a Coursera
 __Assignment description__:
 <br/>
 Input: A sequence of n ≤ 10^5 integers.
+<br/>
 Output: 1, if there is an element that is repeated more than n/2 times, and 0 otherwise.
 <br/>
 
